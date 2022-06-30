@@ -1,0 +1,14 @@
+{
+		"tl_id": "wolf",
+		"tl_name": "Ramat de Llops",
+		"tl_description": "Aquests tres llops atacaran qualsevol amenaça",
+		"tl_damage": "10",
+		"tl_attackspeed": "0.3",
+		"tl_dps": "30",
+		"tl_hp": "100",
+		"tl_units": "3",
+		"tl_speed": "1.5",
+		"tl_type": "Terra",
+		"tl_targets": "Objectiu",
+		"tl_range": "Melé"
+}

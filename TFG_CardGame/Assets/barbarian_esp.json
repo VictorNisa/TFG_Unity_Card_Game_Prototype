@@ -1,0 +1,14 @@
+{
+		"tl_id": "barbarian",
+		"tl_name": "Bárbaro",
+		"tl_description": "Guerrero de Confianza",
+		"tl_damage": "30",
+		"tl_attackspeed": "1",
+		"tl_dps": "30",
+		"tl_hp": "250",
+		"tl_units": "1",
+		"tl_speed": "1",
+		"tl_type": "Tierra",
+		"tl_targets": "Tierra",
+		"tl_range": "Área"
+}

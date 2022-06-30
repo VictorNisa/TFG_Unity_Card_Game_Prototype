@@ -1,0 +1,14 @@
+{
+		"tl_id": "barbarian",
+		"tl_name": "Bàrbar",
+		"tl_description": "Guerrer de Confiança",
+		"tl_damage": "30",
+		"tl_attackspeed": "1",
+		"tl_dps": "30",
+		"tl_hp": "250",
+		"tl_units": "1",
+		"tl_speed": "1",
+		"tl_type": "Terra",
+		"tl_targets": "Terra",
+		"tl_range": "Àrea"
+}

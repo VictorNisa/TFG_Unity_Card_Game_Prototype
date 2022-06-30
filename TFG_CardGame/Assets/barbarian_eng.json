@@ -1,0 +1,14 @@
+{
+		"tl_id": "barbarian",
+		"tl_name": "Barbarian",
+		"tl_description": "Trustworthy warrior",
+		"tl_damage": "30",
+		"tl_attackspeed": "1",
+		"tl_dps": "30",
+		"tl_hp": "250",
+		"tl_units": "1",
+		"tl_speed": "1",
+		"tl_type": "Ground",
+		"tl_targets": "Ground",
+		"tl_range": "Area"
+}

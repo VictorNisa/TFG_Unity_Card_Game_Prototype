@@ -1,0 +1,14 @@
+{
+		"tl_id": "wolf",
+		"tl_name": "Paquete de Lobos",
+		"tl_description": "Estos tres lobos atacarán a cualquier amenaza",
+		"tl_damage": "10",
+		"tl_attackspeed": "0.3",
+		"tl_dps": "30",
+		"tl_hp": "100",
+		"tl_units": "3",
+		"tl_speed": "1.5",
+		"tl_type": "Tierra",
+		"tl_targets": "Tierra",
+		"tl_range": "Melé"
+}

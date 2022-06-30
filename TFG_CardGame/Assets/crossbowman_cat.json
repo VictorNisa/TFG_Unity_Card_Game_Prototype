@@ -1,0 +1,14 @@
+{
+		"tl_id": "crossbowman",
+		"tl_name": "Ballester",
+		"tl_description": "Caçador que porta una ballesta de ferro",
+		"tl_damage": "50",
+		"tl_attackspeed": "2",
+		"tl_dps": "25",
+		"tl_hp": "150",
+		"tl_units": "1",
+		"tl_speed": "0.7",
+		"tl_type": "Terra",
+		"tl_targets": "Terra i Aire",
+		"tl_range": "Mitjà"
+}

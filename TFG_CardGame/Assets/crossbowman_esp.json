@@ -1,0 +1,14 @@
+{
+		"tl_id": "crossbowman",
+		"tl_name": "Ballestero",
+		"tl_description": "Cazador que lleva una ballesta de hierro",
+		"tl_damage": "50",
+		"tl_attackspeed": "2",
+		"tl_dps": "25",
+		"tl_hp": "150",
+		"tl_units": "1",
+		"tl_speed": "0.7",
+		"tl_type": "Tierra",
+		"tl_targets": "Tierra y Aire",
+		"tl_range": "Medio"
+}
